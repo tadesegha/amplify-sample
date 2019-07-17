@@ -1,4 +1,4 @@
-This project follows the [AWS Amplify Tutorial](https://docs.aws.amazon.com/amplify/latest/userguide/deploy-backend.html)
+This project follows the [AWS Amplify Tutorial](https://docs.aws.amazon.com/amplify/latest/userguide/deploy-backend.html).<br>
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
